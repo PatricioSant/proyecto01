@@ -116,7 +116,7 @@ header a:hover {
   font-size: 1.75em;
 }
 
-#somos-proya .container {
+#nosotros .container {
   text-align: center;
   padding: 200px 12px;
 }
@@ -242,12 +242,12 @@ footer .container {
     font-size: 5em;
   }
 
-  #somos-proya .container {
+  #nosotros .container {
     display: flex;
     justify-content: space-evenly;
   }
 
-  #somos-proya .texto {
+  #nosotros .texto {
     width: 50%;
     max-width: 600px;
     text-align: initial;
@@ -257,11 +257,11 @@ footer .container {
     justify-content: center;
   }
 
-  #somos-proya h2 {
+  #nosotros h2 {
     margin-top: 0px;
   }
 
-  #somos-proya .img-container {
+  #nosotros .img-container {
     background-image: url("media/somos-proya.jpg");
     background-size: cover;
     background-position: center center;
